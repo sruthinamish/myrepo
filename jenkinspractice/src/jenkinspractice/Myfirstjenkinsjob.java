@@ -7,6 +7,8 @@ public class Myfirstjenkinsjob {
 		
 		System.out.println("hello welcome to devops");
 		
+		System.out.println("hello welcome to devops");
+		
 		
 		
 		
